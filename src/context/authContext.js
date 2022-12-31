@@ -1,5 +1,4 @@
 import { createContext, useEffect, useState } from "react";
-import userlogo from '../components/images/login.jpg';
 
 export const AuthContext = createContext();
 
@@ -12,7 +11,7 @@ export const AuthContextProvider = ({ children }) => {
         setCurrentUser({
             id: 1,
             name: "nikita gediya",
-            profilePic: "<img src={userlogo} ></img>"
+            profilePic: "https://images.app.goo.gl/LnRuSL4EkrhWBQPH7"
         });
     }
     useEffect(() => {
