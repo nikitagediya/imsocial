@@ -13,7 +13,8 @@ export const AuthContextProvider = ({ children }) => {
             name: "nikita gediya",
             profilePic: "https://images.app.goo.gl/LnRuSL4EkrhWBQPH7"
         });
-    }
+    };
+    
     useEffect(() => {
         localStorage.setItem("user", JSON.stringify(currentUser));
     }, [currentUser]); 
