@@ -1,5 +1,4 @@
 import "./rightBar.scss"
-import userlogo from '../images/user.jpg';
 
 const RightBar = () => {
   return (
@@ -9,7 +8,7 @@ const RightBar = () => {
           <span>Suggestions for you</span>
           <div className="user">
             <div className="userInfo">
-              <img src={userlogo} alt="" />
+              <img src="https://th.bing.com/th/id/OIP._nIctVGnIr6ld5ZIm1oroAHaHJ?pid=ImgDet&rs=1" alt="" />
               <span>Nikita Gediya</span>
             </div>
             <div className="buttons">
@@ -20,7 +19,7 @@ const RightBar = () => {
 
           <div className="user">
             <div className="userInfo">
-              <img src={userlogo} alt="" />
+              <img src="https://th.bing.com/th/id/OIP._nIctVGnIr6ld5ZIm1oroAHaHJ?pid=ImgDet&rs=1" alt="" />
               <span>Nikita Gediya</span>
             </div>
             <div className="buttons">
@@ -33,7 +32,7 @@ const RightBar = () => {
           <span>Latest Activities</span>
           <div className="user">
             <div className="userInfo">
-              <img src={userlogo} alt="" />
+              <img src="https://th.bing.com/th/id/OIP._nIctVGnIr6ld5ZIm1oroAHaHJ?pid=ImgDet&rs=1" alt="" />
               <p>
                 <span>Nikita Gediya</span> Changed their cover picture
               </p>
@@ -42,7 +41,7 @@ const RightBar = () => {
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={userlogo} alt="" />
+              <img src="https://th.bing.com/th/id/OIP._nIctVGnIr6ld5ZIm1oroAHaHJ?pid=ImgDet&rs=1" alt="" />
               <p>
                 <span>Nikita Gediya</span> Changed their cover picture
               </p>
@@ -51,7 +50,7 @@ const RightBar = () => {
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={userlogo} alt="" />
+              <img src="https://th.bing.com/th/id/OIP._nIctVGnIr6ld5ZIm1oroAHaHJ?pid=ImgDet&rs=1" alt="" />
               <p>
                 <span>Nikita Gediya</span> Changed their cover picture
               </p>
@@ -60,7 +59,7 @@ const RightBar = () => {
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={userlogo} alt="" />
+              <img src="https://th.bing.com/th/id/OIP._nIctVGnIr6ld5ZIm1oroAHaHJ?pid=ImgDet&rs=1" alt="" />
               <p>
                 <span>Nikita Gediya</span> Changed their cover picture
               </p>
@@ -72,56 +71,56 @@ const RightBar = () => {
           <span>Online Friends</span>
           <div className="user">
             <div className="userInfo">
-              <img src={userlogo} alt="" />
+              <img src="https://th.bing.com/th/id/OIP._nIctVGnIr6ld5ZIm1oroAHaHJ?pid=ImgDet&rs=1" alt="" />
               <div className="online" />
               <span>Nikita Gediya</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={userlogo} alt="" />
+              <img src="https://th.bing.com/th/id/OIP._nIctVGnIr6ld5ZIm1oroAHaHJ?pid=ImgDet&rs=1" alt="" />
               <div className="online" />
               <span>Nikita Gediya</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={userlogo} alt="" />
+              <img src="https://th.bing.com/th/id/OIP._nIctVGnIr6ld5ZIm1oroAHaHJ?pid=ImgDet&rs=1" alt="" />
               <div className="online" />
               <span>Nikita Gediya</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={userlogo} alt="" />
+              <img src="https://th.bing.com/th/id/OIP._nIctVGnIr6ld5ZIm1oroAHaHJ?pid=ImgDet&rs=1" alt="" />
               <div className="online" />
               <span>Nikita Gediya</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={userlogo} alt="" />
+              <img src="https://th.bing.com/th/id/OIP._nIctVGnIr6ld5ZIm1oroAHaHJ?pid=ImgDet&rs=1" alt="" />
               <div className="online" />
               <span>Nikita Gediya</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={userlogo} alt="" />
+              <img src="https://th.bing.com/th/id/OIP._nIctVGnIr6ld5ZIm1oroAHaHJ?pid=ImgDet&rs=1" alt="" />
               <div className="online" />
               <span>Nikita Gediya</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={userlogo} alt="" />
+              <img src="https://th.bing.com/th/id/OIP._nIctVGnIr6ld5ZIm1oroAHaHJ?pid=ImgDet&rs=1" alt="" />
               <div className="online" />
               <span>Nikita Gediya</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
-              <img src={userlogo} alt="" />
+              <img src="https://th.bing.com/th/id/OIP._nIctVGnIr6ld5ZIm1oroAHaHJ?pid=ImgDet&rs=1" alt="" />
               <div className="online" />
               <span>Nikita Gediya</span>
             </div>

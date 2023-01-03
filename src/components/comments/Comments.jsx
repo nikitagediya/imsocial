@@ -9,14 +9,14 @@ const Comments = () => {
             desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio, voluptatibus.",
             name: "dimple darji",
             userId: 1,
-            profilePicture: "https://images.app.goo.gl/bHQE7TrAuGanqN9Q6"
+            profilePicture: "https://d2qp0siotla746.cloudfront.net/img/use-cases/profile-picture/template_3.jpg"
         },
         {
             id: 2,
             desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio, voluptatibus.",
             name: "dimple darji",
             userId: 2,
-            profilePicture: "https://images.app.goo.gl/bHQE7TrAuGanqN9Q6"
+            profilePicture: "https://d2qp0siotla746.cloudfront.net/img/use-cases/profile-picture/template_3.jpg"
         },
     ];
     return (

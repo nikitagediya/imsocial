@@ -9,33 +9,33 @@ export const Posts = () => {
       id: 1,
       name: "Nikita Gediya",
       userId: 1,
-      profilePic: "https://www.pexels.com/photo/silhouette-photography-of-group-of-people-jumping-during-golden-time-1000445/",
+      profilePic: "https://www.thestatesman.com/wp-content/uploads/2020/07/iStock-667315360.jpg",
       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, perferendis!",
-      img: "https://www.pexels.com/photo/silhouette-photography-of-group-of-people-jumping-during-golden-time-1000445/"
+      img: "https://www.proflowers.com/blog/wp-content/uploads/2019/06/inspirational-friendship-quotes-preview.jpg"
     },
     {
       id: 2,
       name: "Nikita Gediya",
       userId: 2,
-      profilePic: "https://www.pexels.com/photo/silhouette-photography-of-group-of-people-jumping-during-golden-time-1000445/",
+      profilePic: "https://www.thestatesman.com/wp-content/uploads/2020/07/iStock-667315360.jpg",
       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, perferendis!",
-      img: "https://www.pexels.com/photo/silhouette-photography-of-group-of-people-jumping-during-golden-time-1000445/"
+      img: "https://www.proflowers.com/blog/wp-content/uploads/2019/06/inspirational-friendship-quotes-preview.jpg"
     },
     {
       id: 3,
       name: "Nikita Gediya",
       userId: 3,
-      profilePic: "https://images.app.goo.gl/bHQE7TrAuGanqN9Q6",
+      profilePic: "https://www.proflowers.com/blog/wp-content/uploads/2019/06/inspirational-friendship-quotes-preview.jpg",
       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, perferendis!",
-      img: "https://images.app.goo.gl/bHQE7TrAuGanqN9Q6"
+      img: "https://www.thestatesman.com/wp-content/uploads/2020/07/iStock-667315360.jpg"
     },
     {
       id: 4,
       name: "Nikita Gediya",
       userId: 4,
-      profilePic: "https://images.app.goo.gl/bHQE7TrAuGanqN9Q6",
+      profilePic: "https://www.proflowers.com/blog/wp-content/uploads/2019/06/inspirational-friendship-quotes-preview.jpg",
       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, perferendis!",
-      img: "https://images.app.goo.gl/bHQE7TrAuGanqN9Q6"
+      img: "https://www.thestatesman.com/wp-content/uploads/2020/07/iStock-667315360.jpg"
     }
 
   ];
