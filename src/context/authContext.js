@@ -11,7 +11,7 @@ export const AuthContextProvider = ({ children }) => {
         setCurrentUser({
             id: 1,
             name: "nikita gediya",
-            profilePic: "https://d2qp0siotla746.cloudfront.net/img/use-cases/profile-picture/template_3.jpg"
+            profilePic: "https://i.pinimg.com/originals/a2/e0/a5/a2e0a57c141912f3f1ffed93acdda9b9.jpg"
         });
     };
     
