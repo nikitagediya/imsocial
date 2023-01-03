@@ -27,8 +27,16 @@ export const Posts = () => {
       userId: 3,
       profilePic: "https://images.app.goo.gl/bHQE7TrAuGanqN9Q6",
       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, perferendis!",
-      img: "https://www.pexels.com/photo/silhouette-photography-of-group-of-people-jumping-during-golden-time-1000445/"
+      img: "https://images.app.goo.gl/bHQE7TrAuGanqN9Q6"
     },
+    {
+      id: 4,
+      name: "Nikita Gediya",
+      userId: 4,
+      profilePic: "https://images.app.goo.gl/bHQE7TrAuGanqN9Q6",
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, perferendis!",
+      img: "https://images.app.goo.gl/bHQE7TrAuGanqN9Q6"
+    }
 
   ];
   return (
